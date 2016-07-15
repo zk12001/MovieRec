@@ -1,0 +1,2 @@
+		Standard	User-based	SVD		SVD++
+RMSE	1.384		1.126		1.026	1.033
